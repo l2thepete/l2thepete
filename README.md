@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Elle Peterson
 
-<!--
-**l2thepete/l2thepete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at the University of South Dakota.
 
-Here are some ideas to get you started:
+Areas of Interest
+Cybersecurity
+Systems Programming
+Software Development
+Networking
+Open Source
+Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+C • C++ • Python • Java • JavaScript • Linux • Git
+
+Currently learning more about secure systems, low-level development, and scalable software design.
